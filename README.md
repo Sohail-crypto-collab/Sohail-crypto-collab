@@ -34,7 +34,7 @@
 ### Languages and Tools:
 
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,firebase,github,git,figma,css,figma,firebase,html,js,react,tailwind,ts,vercel,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=firebase,github,git,css,figma,firebase,html,js,react,tailwind,ts,vercel,nextjs)](https://skillicons.dev)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohail-crypto-collab&show_icons=true&locale=en&layout=compact" alt="sohail-crypto-collab" /></p>
 
