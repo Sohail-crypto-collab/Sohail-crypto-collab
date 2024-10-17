@@ -1,3 +1,5 @@
+![MasterHead](https://github.com/Sohail-crypto-collab/Sohail-crypto-collab/blob/main/Black%20Blue%20Modern%20Futuristic%20Software%20Labs%20LinkedIn%20Banner%20(715%20x%20214%20px).jpg)
+ 
  <h1 align="center">Hi 👋, I'm Muhammad Sohail Rehman</h1>
  <h3 align="center">Transforming ideas into reality with generative AI</h3>
 
