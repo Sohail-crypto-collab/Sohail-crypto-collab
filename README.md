@@ -1,17 +1,19 @@
-![MasterHead](https://github.com/Sohail-crypto-collab/Sohail-crypto-collab/blob/main/Black%20Blue%20Modern%20Futuristic%20Software%20Labs%20LinkedIn%20Banner%20(715%20x%20214%20px).jpg)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Sohail-crypto-collab.Sohail-crypto-collab" />
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=800&height=90&duration=4000&lines=Hi+There!+👋;+MY+Self+Muhammad+Sohail+Rehman!;" />
+</h1>
  
- <h1 align="center">Hi 👋, I'm Muhammad Sohail Rehman</h1>
  <h3 align="center">Transforming ideas into reality with generative AI</h3>
-
- - 🔭 I’m currently working on Next.js
-
-- 🌱 I’m currently learning Backend
-
-- 💬 Ask me about **Generative AI**
-
-- 📫 How to reach me **sohailrehman011@gmail.com**
+ <div align="center">
   
-- ⚡ Fun fact: I'm comming to teen<br/>
+  🔭 I’m currently working on **Next.js**
+ 
+ 🌱 I’m currently learning **Cloud Applied Generative AI**
+
+💬 Ask me about **Node.js, Javascript, React... or anything [here](https://github.com/salesp07/salesp07/issues)**
+
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+</div>
 
   
 ### Connect with me:
