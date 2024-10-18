@@ -48,12 +48,12 @@
 ## Activity On GitHub:
 
 <div align="center">
-<p >
-  <a href="https://github.com/sohail-crypto-collab">      
+
+<a href="https://github.com/sohail-crypto-collab">      
 <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sohail-crypto-collab&theme=gruvbox&hide_border=true&stroke=f53b3b"/>
 <img width=420 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Sohail-crypto-collab&hide=HTML&langs_count=8&layout=compact&theme=gruvbox&hide_border=true&stroke=f53b3b&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </a> 
-</p>
+
 </div>
 
 
