@@ -16,32 +16,27 @@
 </div>
 
   
-### Connect with me:
-<div id="badges">
-  <a href="https://github.com">
-    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+## Connect With Me:
+<div align="center" id="badges">
+    <a href="mailto:sohailrehman011@gamil.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.youtube.com">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+   <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-   <a href="https://www.instagram.com">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+   <a href="" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
-   <a href="https://fb.com">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-    
-  </a>
-   <a href="https://twitter.com">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-
  
 </div>
 
-### Languages and Tools:
+### <h2> Languages-Frameworks-Tools </h2>
 
+<div align="center">
+<img src="https://skillicons.dev/icons?i=github,git,css,figma"/><br/>
+<img src="https://skillicons.dev/icons?i=firebase,html,js,react,tailwind,ts,vercel,nextjs"/>
+</div>
 
-[![My Skills](https://skillicons.dev/icons?i=github,git,css,figma,firebase,html,js,react,tailwind,ts,vercel,nextjs)](https://skillicons.dev)
 
 
 
@@ -50,11 +45,12 @@
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=sohail-crypto-collab&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
 </p>
 
-## Activity On GitHub
+## Activity On GitHub:
 
-<p align="center">
-  <a href="https://github.com/Thinkright20">      
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sohail-crypto-collab&theme=dark&hide_border=true&stroke=f53b3b"/>
+<p align="right">
+  <a href="https://github.com/sohail-crypto-collab">      
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sohail-crypto-collab&theme=gruvbox&hide_border=true&stroke=f53b3b"/>
+<img width=420 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Sohail-crypto-collab&hide=HTML&langs_count=8&layout=compact&theme=gruvbox&hide_border=true&stroke=f53b3b&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </a> 
 </p>
 
@@ -62,7 +58,10 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sohail-crypto-collab&" alt="sohail-crypto-collab" /></p>
+
+
+
+
 
 
 
