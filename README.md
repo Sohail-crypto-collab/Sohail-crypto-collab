@@ -10,9 +10,9 @@
  
  🌱 I’m currently learning **Cloud Applied Generative AI**
 
-💬 Ask me about **Node.js, Javascript, React... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Node.js, Javascript, React... or anything [here](https://github.com/Sohail-crypto-collab/Sohail-crypto-collab/pulls)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **There’s an ‘average’ ketchup speed around 0.28 miles per hour!**
 </div>
 
   
@@ -44,6 +44,11 @@
 [![My Skills](https://skillicons.dev/icons?i=github,git,css,figma,firebase,html,js,react,tailwind,ts,vercel,nextjs)](https://skillicons.dev)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohail-crypto-collab&show_icons=true&locale=en&layout=compact" alt="sohail-crypto-collab" /></p>
+
+## My Stats:
+<p align="center">
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=sohail-crypto-collab&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohail-crypto-collab&show_icons=true&locale=en" alt="sohail-crypto-collab" /></p>
 
