@@ -37,9 +37,6 @@
 <img src="https://skillicons.dev/icons?i=firebase,html,js,react,tailwind,ts,vercel,nextjs"/>
 </div>
 
-
-
-
 ## My Stats:
 <p align="center">
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=sohail-crypto-collab&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
@@ -50,7 +47,7 @@
 <div align="center">
 
 <a href="https://github.com/sohail-crypto-collab">      
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sohail-crypto-collab&theme=gruvbox&hide_border=true&stroke=f53b3b"/>
+<img absolute left title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sohail-crypto-collab&theme=gruvbox&hide_border=true&stroke=f53b3b"/>
 <img width=420 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Sohail-crypto-collab&hide=HTML&langs_count=8&layout=compact&theme=gruvbox&hide_border=true&stroke=f53b3b&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </a> 
 
@@ -60,15 +57,8 @@
 <div >
 
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Sohail-crypto-collab/Sohail-crypto-collab/output/github-contribution-grid-snake-dark.svg" />
-
-  
-  <br/>
-
-  
-
-
-  
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Sohail-crypto-collab/Sohail-crypto-collab/output/github-contribution-grid-snake.svg" />  
+  <br/>  
 </div>
 
 
